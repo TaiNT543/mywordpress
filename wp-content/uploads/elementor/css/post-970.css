@@ -63,10 +63,7 @@
 .elementor-970 .elementor-element.elementor-element-1c1a2ee .elementor-swiper-button-prev i:after{content: '\e87e';position:absolute; left:6px;}
 .elementor-970 .elementor-element.elementor-element-1c1a2ee .elementor-swiper-button-next i:after{content: '\e87d';position:absolute; right:6px;}/* End custom CSS */
 /* Start custom CSS for tabs, class: .elementor-element-d70e312 */.elementor-970 .elementor-element.elementor-element-d70e312 .elementor-tab-desktop-title{position:relative;}
-.elementor-970 .elementor-element.elementor-element-d70e312 .elementor-tab-desktop-title.elementor-active:before{position:absolute;content:''; inset:0px; background:#c3d450; height:4px; width: 50%; transform:translateX(50%);}
-       .elementor-970 .elementor-element.elementor-element-d70e312 .elementor-tab-title[data-tab="1"].elementor-active ~ #AllProducts1{
-            display:block; 
-        }/* End custom CSS */
+.elementor-970 .elementor-element.elementor-element-d70e312 .elementor-tab-desktop-title.elementor-active:before{position:absolute;content:''; inset:0px; background:#c3d450; height:4px; width: 50%; transform:translateX(50%);}/* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-a0a0ee1 */#AllProducts1{display:none;}/* End custom CSS */
 /* Start custom CSS for column, class: .elementor-element-16a4a3a */.elementor-970 .elementor-element.elementor-element-16a4a3a{overflow:hidden;}/* End custom CSS */
 /* Start custom CSS for heading, class: .elementor-element-9707807 */.elementor-970 .elementor-element.elementor-element-9707807{
