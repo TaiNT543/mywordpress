@@ -17,6 +17,9 @@
 }
 .elementor-1792 .elementor-element.elementor-element-6791536 .ip:focus,.elementor-1792 .elementor-element.elementor-element-6791536 .ip:hover{
     border: 1px solid #c3d450;
+}
+.elementor-1792 .elementor-element.elementor-element-6791536 ::placeholder{
+    color:#999;
 }/* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-bf06b48 */#elementor-popup-modal-1792 .dialog-close-button {
     position: absolute;
